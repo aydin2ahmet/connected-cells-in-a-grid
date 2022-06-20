@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connected Cells in a Grid", "Connected Cells in a Grid\Connected Cells in a Grid.csproj", "{66C27DE9-B27D-4F27-81B4-6907F3261B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C27DE9-B27D-4F27-81B4-6907F3261B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C27DE9-B27D-4F27-81B4-6907F3261B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C27DE9-B27D-4F27-81B4-6907F3261B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C27DE9-B27D-4F27-81B4-6907F3261B99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23309BBB-02EA-431E-BE44-1155CE3956C5}
+	EndGlobalSection
+EndGlobal

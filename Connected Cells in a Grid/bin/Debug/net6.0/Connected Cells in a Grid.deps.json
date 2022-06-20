@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Connected Cells in a Grid/1.0.0": {
+        "runtime": {
+          "Connected Cells in a Grid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connected Cells in a Grid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
